@@ -1,0 +1,6 @@
+[submodule "apps/client-test"]
+	path = apps/client-test
+	url = git@github.com:patryksztuczka/client-test.git
+[submodule "apps/server-test"]
+	path = apps/server-test
+	url = git@github.com:patryksztuczka/server-test.git
